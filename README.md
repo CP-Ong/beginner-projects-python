@@ -7,7 +7,10 @@ I am currently building a strong foundation in Python through daily coding chall
 - Track my learning journey and progress in Python programming.
 - Apply Python concepts in real-world projects.
 - Build a portfolio to showcase to employers and the developer community.
-  
+
+
+## Projects
+### [Project 1: Blackjack Card Game](Capstone1_Blackjack-Game)
 <!--
 ## Projects Overview
 The repository includes projects across various Python topics, such as:
