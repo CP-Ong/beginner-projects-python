@@ -10,8 +10,9 @@ I am currently building a strong foundation in Python through daily coding chall
 
 
 ## Projects
-### [Project 1: Blackjack Card Game](Capstone1_Blackjack-Game)
-<!--
+### [Project 1: Blackjack Card Game](Project1_Blackjack-Game)
+### [Project 2: Turtle Crossing Game](Project2_Turtle-Crossing-Game)
+
 ## Projects Overview
 The repository includes projects across various Python topics, such as:
 - Basic syntax and operations
@@ -26,7 +27,7 @@ The repository includes projects across various Python topics, such as:
 - Games and graphical user interfaces (GUI)
   
 Each project folder contains Python scripts with detailed explanations and comments.
--->
+
 ## Technologies Used
 - **Python**: Core programming language
 - **PyCharm**: Integrated development environment 
