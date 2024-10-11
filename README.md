@@ -12,6 +12,7 @@ I am currently building a strong foundation in Python through daily coding chall
 ## Projects
 ### [Project 1: Blackjack Card Game](Project1_Blackjack-Game)
 ### [Project 2: Turtle Crossing Game](Project2_Turtle-Crossing-Game)
+### [Project 3: Flash Card App](Project3_Flash-Card-App)
 
 ## Projects Overview
 The repository includes projects across various Python topics, such as:
