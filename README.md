@@ -22,24 +22,22 @@ The repository includes projects across various Python topics, such as:
 - Object-Oriented Programming (OOP)
 - File handling
 - Error handling
-- Web development with Flask
 - Working with APIs
 - Automation with Python
 - Games and graphical user interfaces (GUI)
-  
+<!-- - Web development with Flask -->
 Each project folder contains Python scripts with detailed explanations and comments.
 
 ## Technologies Used
 - **Python**: Core programming language
 - **PyCharm**: Integrated development environment 
-- **Flask**: Web framework
 - **Tkinter**: GUI development
 - **Requests**: API handling
 - **Pandas**: Data manipulation (for data-related projects)
 - **Other Libraries**: Based on project requirements
-
+<!-- - **Flask**: Web framework -->
 ## Course Details
-This repository follows the **100 Days of Code: The Complete Python Pro Bootcamp** on Udemy, where I commit to writing Python code daily. The course provides a mix of theoretical knowledge and hands-on projects to solidify concepts. I started the course on 23/09/2024.
+This repository follows the **100 Days of Code: The Complete Python Pro Bootcamp** on Udemy, where I commit to writing Python code daily. The course provides a mix of theoretical knowledge and hands-on projects to solidify concepts. I started the course on 23/09/2024. I stopped the course on 12/10/2024 after completing Day 38 to focus other data science skills.
 
 ## How to Use
 Each folder contains:
