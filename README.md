@@ -11,8 +11,11 @@ I am currently building a strong foundation in Python through daily coding chall
 
 ## Projects
 ### [Project 1: Blackjack Card Game](Project1_Blackjack-Game)
+  > Created a game of Blackjack.
 ### [Project 2: Turtle Crossing Game](Project2_Turtle-Crossing-Game)
+  > Created a turtle crossing game using OOP.
 ### [Project 3: Flash Card App](Project3_Flash-Card-App)
+  > Created a simple flash card app using tkinter and pandas.
 
 ## Projects Overview
 The repository includes projects across various Python topics, such as:
@@ -37,7 +40,7 @@ Each project folder contains Python scripts with detailed explanations and comme
 - **Other Libraries**: Based on project requirements
 <!-- - **Flask**: Web framework -->
 ## Course Details
-This repository follows the **100 Days of Code: The Complete Python Pro Bootcamp** on Udemy, where I commit to writing Python code daily. The course provides a mix of theoretical knowledge and hands-on projects to solidify concepts. I started the course on 23/09/2024. I stopped the course on 12/10/2024 after completing Day 38 to focus other data science skills.
+This repository follows the **100 Days of Code: The Complete Python Pro Bootcamp** on Udemy, where I commit to writing Python code daily. The course provides a mix of theoretical knowledge and hands-on projects to solidify concepts. I started the course on 23/09/2024. I stopped the course on 12/10/2024 after completing Day 40 to focus on other data science skills.
 
 ## How to Use
 Each folder contains:
